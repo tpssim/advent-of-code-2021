@@ -19,6 +19,7 @@ for reading in readings:
   previous = reading
 
 print(f'{result} measurements were larger than the previous one.')
+print()
 
 
 # Part 2
