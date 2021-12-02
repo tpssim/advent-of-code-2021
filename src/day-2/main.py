@@ -1,6 +1,6 @@
 
 # Parse the input from the input file
-input_file = 'input.txt'
+input_file = 'example_input.txt'
 readings = []
 
 with open(input_file) as input:
