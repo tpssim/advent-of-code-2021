@@ -39,6 +39,7 @@ power_consumption = (int(gamma_rate, 2)) * (int(epsilon_rate, 2))
 print(f'Gamma rate: {gamma_rate}')
 print(f'Epsilon rate: {epsilon_rate}')
 print(f'Power consumption: {power_consumption}')
+print()
 
 
 # Part 2
